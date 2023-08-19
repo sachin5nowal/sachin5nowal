@@ -1,4 +1,8 @@
 ### Hi there 👋
+### 👋 Hi, I'm Sachin Nowal
+
+Currently, I'm a Data Scientist at HDFC Bank .
+
 
 <!--
 **sachin5nowal/sachin5nowal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
